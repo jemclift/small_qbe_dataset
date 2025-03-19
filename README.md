@@ -41,3 +41,7 @@ Primarily two test scenarios have been considered, concerning 2 different types 
 #### Other
 
 For convenience of re-recording, combined versions of the samples have been provided. The idea being that if you want to re-record the samples, it is easier to record the whole thing, trim it and then clip into 10s chunks. For that purpose, text files with the filenames of the samples in the order they apear in the combined files have also been provided.
+
+#### Notes
+
+It is recomended to load the entire GTZAN dataset into your song database (not just the 30 songs chosen from it). A good QBE MIR system should be able to recognise a sample out of many songs, not only a shortlist of 30 with only 2 others from the same genre.
